@@ -2,14 +2,13 @@
 
 Front-End React Developer
 
+### ☎️ Contacts:
 
-### ☎️ Contacts:  
-  
-Phone:     +38(067)526-46-41  
-E-mail:    vasyltkachenko07@gmail.com  
-City:      Ivano-Frankivsk  
+Phone: +38(067)526-46-41  
+E-mail: vasyltkachenko07@gmail.com  
+City: Ivano-Frankivsk  
 [Telegram](https://t.me/Vasyl_Tkachenko): @Vasyl_Tkachenko  
-[LinkedIn](https://www.linkedin.com/in/vsltkachenko)  
+[LinkedIn](https://www.linkedin.com/in/vsltkachenko)
 
 ---
 
@@ -22,8 +21,9 @@ of Oil and Gas
 
 ### Link to my applications:
 
-[GitHub](https://github.com/vsltkachenko)   
-[Pet-project "Mailleux" (online furniture store)](https://mailleux.vercel.app/)
+[GitHub](https://github.com/vsltkachenko)  
+[Pet-project "Mailleux" (online furniture store)](https://mailleux.vercel.app/)  
+[Landing page "Hotel"](https://vsltkachenko.github.io/Hotel/)
 
 ---
 
@@ -48,17 +48,17 @@ of Oil and Gas
 
 - Freelancer from 2023 till now
 - FORMAT-SERVICE 2010-2022
-	Private entrepreneur (operational printing services)
+  Private entrepreneur (operational printing services)
 - SINT-MAISTER 2006-2009
-	Manager in the company
+  Manager in the company
 
 ---
 
-### 👅 Languages:  
-  
+### 👅 Languages:
+
 English - A2  
 Ukrainian - Native  
-Russian - Native  
+Russian - Native
 
 ---
 
