@@ -63,7 +63,7 @@ Russian - Native
 
 ### Additional Information:
 
-I`m a passionate and motivated frontend developer who is just starting his journey in the world of web development.
+I'm a passionate and motivated frontend developer who is just starting his journey in the world of web development.
 With a strong foundation in HTML, CSS, and JavaScript, I want to learn and apply my skills to create interesting
 and user-friendly websites. Despite being a beginner, I developing my skills by taking online courses and building
 personal projects. I am ready to accept new challenges and grow as a professional.
