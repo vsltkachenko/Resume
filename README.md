@@ -22,7 +22,7 @@ of Oil and Gas
 
 ### Link to my applications:
 
-[GitHub](https://github.com/vsltkachenko)
+[GitHub](https://github.com/vsltkachenko)   
 [Pet-project "Mailleux" (online furniture store)](https://mailleux.vercel.app/)
 
 ---
