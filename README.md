@@ -4,10 +4,10 @@ Front-End React Developer
 
 ### ☎️ Contacts:
 
-Phone: +38(067)526-46-41
+Phone: +38(067)526-46-41 
 E-mail: vasyltkachenko07@gmail.com  
-City: Ivsno-Frankivsk
-[Telegram](https://t.me/Vasyl_Tkachenko): @Vasyl_Tkachenko
+City: Ivsno-Frankivsk 
+[Telegram](https://t.me/Vasyl_Tkachenko): @Vasyl_Tkachenko 
 [LinkedIn](https://www.linkedin.com/in/vsltkachenko)
 
 ---
