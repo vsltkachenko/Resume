@@ -2,13 +2,14 @@
 
 Front-End React Developer
 
-### ☎️ Contacts:
 
-Phone: +38(067)526-46-41
-E-mail: vasyltkachenko07@gmail.com  
-City: Ivsno-Frankivsk
-[Telegram](https://t.me/Vasyl_Tkachenko): @Vasyl_Tkachenko
-[LinkedIn](https://www.linkedin.com/in/vsltkachenko)
+### ☎️ Contacts:  
+  
+Phone:     +38(067)526-46-41  
+E-mail:    vasyltkachenko07@gmail.com  
+City:      Ivano-Frankivsk  
+[Telegram](https://t.me/Vasyl_Tkachenko): @Vasyl_Tkachenko  
+[LinkedIn](https://www.linkedin.com/in/vsltkachenko)  
 
 ---
 
@@ -52,11 +53,11 @@ of Oil and Gas
 
 ---
 
-### 👅 Languages:
-
-English - A2
+### 👅 Languages:  
+  
+English - A2  
 Ukrainian - Native  
-Russian - Native
+Russian - Native  
 
 ---
 
