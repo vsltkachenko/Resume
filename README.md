@@ -33,13 +33,14 @@ of Oil and Gas
 - HTML5
 - CSS3
 - JavaScript ES6+
+- TypeScript  
 - Sass/SCSS
 - BEM
 - TailwindCSS
 - Npm
-- Node
-- Redux
-- Express
+- Node/Express
+- Redux/Redux Toolkit
+- Radix UI
 - MongoDB
 
 ---
@@ -56,7 +57,7 @@ of Oil and Gas
 
 ### 👅 Languages:
 
-English - A2  
+English - Pre-Intermediate  
 Ukrainian - Native  
 Russian - Native
 
