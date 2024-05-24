@@ -5,7 +5,7 @@ Front-End React Developer
 ### ☎️ Contacts:
 
 Phone: +38(067)526-46-41  
-E-mail: fondest.dev@gmail.com
+E-mail: fondest.dev@gmail.com   
 City: Ivano-Frankivsk  
 [Telegram](https://t.me/Vasyl_Tkachenko): @Vasyl_Tkachenko    
 [Linkedin](https://linkedin.com/in/vasyl-tkachenko-link/): vasyl-tkachenko-link
