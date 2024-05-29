@@ -25,6 +25,7 @@ of Oil and Gas
 
 [GitHub](https://github.com/vsltkachenko)  
 [Pet-project "Mailleux" (online furniture store)](https://mailleux.vercel.app/)  
+[Events Registration App (events board)](https://events-board-snowy.vercel.app/)  
 [Landing page "Hotel"](https://vsltkachenko.github.io/Hotel/)
 
 ---
